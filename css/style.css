@@ -73,6 +73,7 @@ body  {
 }
 .left-nav-ul a {
 	display: block;
+	padding-left: 25px;
 	width: 240px;
 	height: 38px;
 	line-height:38px;
